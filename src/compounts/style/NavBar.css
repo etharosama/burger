@@ -1,0 +1,18 @@
+.avater{
+  display: flex;
+  flex-direction: row;
+  font-size: 17px;
+}
+.avater p {
+  display: inline-block;
+  margin:3px;
+  color: #ffff;
+}
+.avater i {
+  color: #ffff;
+  font-size: 20px;
+  margin-right:3px;
+}
+.span_link{
+  cursor: pointer
+}

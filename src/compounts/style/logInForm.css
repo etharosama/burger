@@ -1,0 +1,49 @@
+.imgcontainer {
+  display: block;
+
+}
+
+.imgcontainer i{
+  margin-top: 20px;
+  font-size: 40px;
+  color: #6a6a6a ;
+}
+
+.imgcontainer p{
+  font-weight:600;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.form {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  border: 0.5px solid #6a6a6a ;
+}
+
+#customCheck {}
+
+.formcontainer {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 10px;
+}
+
+.container button {
+  width: 40%;
+  margin: 2% ;
+  margin-bottom: 20px;
+}
+
+.formcontainer input {
+  width: 98%;
+  margin: auto;
+  margin-top: 10px ;
+  margin-bottom: 10px;
+}
+.formcontainer label {
+  margin: 0px 10px ;
+}

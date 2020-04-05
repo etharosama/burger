@@ -1,0 +1,40 @@
+.totalBill{
+  height: 80vh ;
+  margin-top: 30px;
+  padding-bottom: 40px;
+  align-items: center;
+  align-content: center;
+  padding-top: 50px;
+}
+
+.totalBill a:hover{
+  text-decoration: none;
+}
+
+.non-bill {
+  padding: 0px 50px 10px ;
+}
+.non-bill h1 , .non-bill h5 {
+  padding: 0px 20px 10px ;
+}
+
+.bill  {
+  padding: 0px 50px 10px ;
+}
+
+.bill h2 , .bill h6 {
+  padding: 0px 0px 10px ;
+}
+
+.bill table tr th ,td {
+  padding: 15px;
+}
+.bill p{
+  padding: 15px;
+  font-weight: bold;
+}
+
+.bill h5{
+  padding: 15px;
+  font-weight: bold;
+}
